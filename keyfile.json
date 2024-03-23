@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "order-cancellation-gtm",
+  "private_key_id": "acce558ebd3b53fcc097f7213f84d57e3dc1128e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCT1N7aTUfBD8u\naIRRYBuuew+3XVWLibxYDV89fVxPymw1kqE1nJ3flFgqG6WYZAtS8GwJ3mQ22vru\nzCwg8nlr0LANn0WYARo0fBDBjE6T9rrIUh0ac25GoDvyyETbuack2rTQ9yk4wDB0\nh1VJjUitBknYGhskOdyC+IikqfM02/n0sWDzzEfu212Rj5JTQQtFe9nfykMiTrw1\nEN7swoDjYZqhhuYb7zQ0Q8C9m1+oMSo4TdelXxMzYlqkErdgU6mWQHXSBrRXJ/ws\npbypbLqaShOgzOJpFAZ1qcnW3A/4u/CNtePTwVvD7Ge/Sulw8tjqYqedy3VTaatc\n+k7Nwhn3AgMBAAECggEAGKtalXoDeQcggGNbnTs++HV+RtDuOfOIOoOkGlnunOC9\nwUV2+ygBsS+Ty/DLot/cwjBs/wnBnmdJ4YSBe8NdIA+UMn6MpuJI8e3ocLJADbAP\nAbzPHhsWnpfcVJQRjfXxnw+3Uip3DNH1tO2zqc1qszDvsiSKWpyP/v7P1lwPWR/1\nw8ZVTue1M6KKxQzBUIIAJjCZKVRLCisGqhocof/35oGIWpplPYr/+1rhI6N/DGCu\nEkHrBSoV/IUUMoHXAQrZRtn9VtYyUtvPFp/JpGtccsnnx0i5fMs0lomoPMTt7Z7Y\n3Iko+fM93rpa4K1YHhShy2Wd7IEnEqBQWJcF2TerEQKBgQDvR7BVxAP+onbHexPA\nF2340BQaVcy1BfMyR0LD9c2zq7KkIh0Ku/4QpyI/qQfuhuH/XOcUzJ96Mcr65h9C\nOMb2seM3VyGjiTCu9jjwU9cs3UwEvkNyKEXU2QY2HZwhRMI8cUSPPrS1WloZ2av3\nWr8aIlAWZrVwT9jo5ZtzBrAysQKBgQDP4zKjXsN/q1Fzr+OakUF9zNarT8ubuf4C\n1z59yTuZtrVpt6YK8WsJ2X/x42+vOPpMEoWBK9EtNZ3vp13Z1Dh+eUE5eGbKl3kQ\njof9BG9kCzkVUykos/op/U1zX74Gxud9ZRlll9ugtLqy1//ehV9UwZlFuUKtEnnK\n6ja9Xz6xJwKBgQC+Sj3SxzMCEwPxOlEHp9peUGRcWTWWFOhGaOOQ4e833ukPnM2J\n1t2DMteK1wsmx3/9TE29fcmqLOUmyVG8oVihofB390QaQSVFTy0S+yoZVNh6wTD0\nHVEDp6BH8x5SWtM5rD6AyLZ/rx4Ohsw6x6FI0FbuqbnLWsS+2rLYNE510QKBgQCh\n/axr2WAFj/28ZAa7XwzldkSg4WELS/c/R3KOmcwzj0f1xQFB7bU2y6EDX/KbW47O\n0G/vo7EvxWP4Zzaektwi0WGd4tBWdYoE+MvGwTn7fzNQBqk/6l65cYR0rtpodX3V\nHH6Zx6eAptQEoIPlZZBPfzxsNFxceNUm5TMahalYaQKBgCSUHJlAQK1d2hGFWE3K\nNVp1XYmdeVcPiEDgfhgmTTU6BjEGXBUCg2RSH/THYi4aRJPdk6PNIqtn79lxT0Qh\nI5BzxtRd35BOhHBqdA2zkUG+LlYRgtDu+8Qzmi+yPNg7gaTfUT/5J5KvnOygE63T\n8hoxaG37uRnp3/7kcTrNY3hW\n-----END PRIVATE KEY-----\n",
+  "client_email": "gtm-tags-service-account@order-cancellation-gtm.iam.gserviceaccount.com",
+  "client_id": "100137460158503214554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gtm-tags-service-account%40order-cancellation-gtm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
